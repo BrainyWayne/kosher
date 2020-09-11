@@ -47,7 +47,7 @@ class _SplashState extends State<Splash> {
               ),
               Center(
                 child: Text(
-                  "Shopymade",
+                  "kosher",
                   style: TextStyle(
                     fontFamily: "Pacifico",
                       color: Colors.black,

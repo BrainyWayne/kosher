@@ -294,7 +294,7 @@ class _AccountState extends State<Account> {
                                 crossAxisAlignment: CrossAxisAlignment.center,
                                 children: [
                                   Text(
-                                    "Shopymade",
+                                    "kosher",
                                     style: TextStyle(fontWeight: FontWeight.bold),
                                   ),
                                   Text("v1.0",

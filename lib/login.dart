@@ -68,7 +68,7 @@ class _LoginState extends State<Login> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
                       Text(
-                        "Shopymade",
+                        "kosher",
                         style: TextStyle(
                             fontFamily: "Pacifico",
                             fontSize: 40,

@@ -122,7 +122,7 @@ class _BodyState extends State<Body> {
                     padding:
                         const EdgeInsets.symmetric(horizontal: kDefaultPaddin),
                     child: Text(
-                      "Shopymade",
+                      "kosher",
                       style: Theme.of(context)
                           .textTheme
                           .headline5
