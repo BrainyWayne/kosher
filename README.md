@@ -7,6 +7,6 @@
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
 
-### E-commerce App Final UI
+### Kosher Final UI
 
 ![intro](intro.gif)
