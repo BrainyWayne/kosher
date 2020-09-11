@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787843261138",
+    "firebase_url": "https://theshopymade.firebaseio.com",
+    "project_id": "theshopymade",
+    "storage_bucket": "theshopymade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787843261138:android:4476357137d8129e00030b",
+        "android_client_info": {
+          "package_name": "com.shopymade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787843261138-l9vbnm4p0nlo3jqp43hhu8di4bmklbtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSdQfFjgxAPeFAn3KFuDyYCoO3e-PmLB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787843261138-l9vbnm4p0nlo3jqp43hhu8di4bmklbtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
